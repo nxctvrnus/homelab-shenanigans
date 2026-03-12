@@ -3,11 +3,11 @@ This is a special repository for my homelab designed to mimic a realistic corpor
 
 ## SETUP
 ### 1. Worker
-Operating System (OS): Windows 11 Professional
+Operating System (OS): Windows 11 Professional\
 The worker is connected to an Active Directory domain for work purposes.
 ### 2. Supervisor
-Operating System (OS): Windows 11 Professional
+Operating System (OS): Windows 11 Professional\
 The supervised is connected to an Active Directory domain for work purposes. The supervisor will have administrator privileges on the Worker's PC & remote access solutions.
 ### 3. Threat Actor
-Operating System (OS): Kali Linux
+Operating System (OS): Kali Linux\
 The Threat Actor will be used to test vulnerabilities and their impact.
