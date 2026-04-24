@@ -9,5 +9,5 @@ The worker is connected to an Active Directory domain for work purposes.
 Operating System (OS): Kali Linux\
 The threat actor will be used to test vulnerabilities and their impact. This one will rarely be used due to being very specific regarding purpose.
 ### 3. Domain Controller
-Operating System (OS): Windows 11 - Windows Server 2025
+Operating System (OS): Windows 11 - Windows Server 2025\
 This acts as the Active Directory Domain Controller and the server.
