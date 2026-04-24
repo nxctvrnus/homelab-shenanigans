@@ -10,4 +10,4 @@ Operating System (OS): Windows 11 Professional\
 The supervisor is connected to an Active Directory domain for work purposes. The supervisor will have administrator privileges on the Worker's PC & remote access solutions.
 ### 3. Threat Actor
 Operating System (OS): Kali Linux\
-The threat actor will be used to test vulnerabilities and their impact.
+The threat actor will be used to test vulnerabilities and their impact. This one will rarely be used due to being very specific regarding purpose.
