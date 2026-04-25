@@ -1,5 +1,5 @@
 25/04/2026
 I first waited for the server to finish installing, where afterwards, I installed Active Directory and promoted the server to the Domain Controller. The domain's name was "nebula.local", NetBIOS was "NEBULA".
 After finishing setting up Active Directory, I decided to not change the configuration of password requirements. They were already good.
-A new account was created under the name of "tung", and then I connected the worker VM to the domain.
+A new account was created under the name of "tung", and then I connected the worker VM to the domain after configuring the DNS server to be the server.
 Both worker and server VMs were then placed in a shared LAN segment and the server was configured to have a static IPv4 address. This was done so nothing would go wrong in case I shut it down later on.
